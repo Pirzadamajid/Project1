@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="412548d9-766a-4ae6-8d6e-117c37c5a925" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2qLHhZP3OXOlRobHf49HvS9QgaW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1. Function Arguments and Return Values.executor": "Run",
+    "Python.2. Default and Keyword Arguments.executor": "Run",
+    "Python.Q10. Using Math.executor": "Run",
+    "Python.Q11. Using random.executor": "Run",
+    "Python.Q12.Tuple Operations.executor": "Run",
+    "Python.Q13. Creating and Accessing Dictionaries.executor": "Run",
+    "Python.Q14. Using Dictionary Methods.executor": "Run",
+    "Python.Q15.Combine lists, tuples, dictionaries in one program.executor": "Run",
+    "Python.Q3. Understanding Scope.executor": "Run",
+    "Python.Q4.Global variable.executor": "Run",
+    "Python.Q5. Using len().executor": "Run",
+    "Python.Q6. Using type().executor": "Run",
+    "Python.Q7. Using range().executor": "Run",
+    "Python.Q8. Importing Math.executor": "Run",
+    "Python.Q9. Importing random.executor": "Run",
+    "Python.Understanding Scope.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/pirza/OneDrive/Desktop"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="412548d9-766a-4ae6-8d6e-117c37c5a925" name="Changes" comment="" />
+      <created>1734435055155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734435055155</updated>
+    </task>
+    <servers />
+  </component>
+</project>
